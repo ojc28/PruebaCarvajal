@@ -1,0 +1,5 @@
+1. Debe restaurarse la base de datos en SQL Server
+1.1 Debe copiarse todo en c:\Prg
+2. ejecutar el Shop que es el BackeEnd de la app
+3. ejecutar el Front
+
